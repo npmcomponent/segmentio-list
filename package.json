@@ -1,0 +1,24 @@
+{
+  "name": "segmentio-list",
+  "description": "An abstraction for managing a list of views. Basically, List is to Collection as View is to Model.",
+  "version": "0.2.4",
+  "keywords": [
+    "list",
+    "collection",
+    "view",
+    "model",
+    "menu",
+    "items"
+  ],
+  "main": "lib/index.js",
+  "dependencies": {
+    "component-dom": "git://github.com/npmcomponent/component-dom.git",
+    "component-each": "git://github.com/npmcomponent/component-each.git",
+    "component-type": "git://github.com/npmcomponent/component-type.git",
+    "segmentio-emitter": "git://github.com/npmcomponent/segmentio-emitter.git",
+    "ianstormtaylor-bind": "git://github.com/npmcomponent/ianstormtaylor-bind.git",
+    "ianstormtaylor-get": "git://github.com/npmcomponent/ianstormtaylor-get.git",
+    "ianstormtaylor-map": "git://github.com/npmcomponent/ianstormtaylor-map.git"
+  },
+  "license": "MIT"
+}
